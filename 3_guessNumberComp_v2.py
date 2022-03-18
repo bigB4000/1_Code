@@ -11,6 +11,7 @@ def guess(x):
 			print('Sorry, guess again. Too high.')
 	print(f'Yay, congrats. You have guessed the number {random_number} correctly!!')
 
+#this is completely a test to upload and commit this
 def computer_guess(x):
 	low = 1
 	high = x
